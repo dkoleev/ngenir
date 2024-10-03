@@ -10,6 +10,6 @@ fn main() {
     say(&message, width, &mut writer).unwrap();
 }
 
-fn test1(){
+fn test(){
 
 }
